@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Homework3_A3</string>
+    <string name="ChicagoHotels">ChicagoHotels</string>
+    <string name="ChicagoRestaurants">ChicagoRestaurants</string>
+    <string-array name="ChicagoHotelNames">
+        <item> Kimpton Hotel Allegro</item>
+        <item> Omni Chicago Hotel</item>
+        <item> Chicago Marriott at Medical District/UIC</item>
+        <item> Kimpton Hotel Monaco Chicago	</item>
+        <item> Sheraton Grand Chicago</item>
+        <item> Silversmith Hotel</item>
+    </string-array>
+    <string-array name="ChicagoRestaurantsNames">
+        <item> Girl and the Goat</item>
+        <item> The Rosebud</item>
+        <item> Greek Islands</item>
+        <item>The Purple Pig</item>
+        <item> Tanta Chicago</item>
+        <item> Blackbird Restaurant</item>
+    </string-array>
+</resources>
